@@ -17,9 +17,11 @@
 
 Comparador de precios y nutrición de Mercadona, Carrefour, Dia y Lidl, con app Android propia.
 Los datos se sincronizan solos cada día en GitHub Actions y la app los lee directamente, así
-que **no hay ningún servidor que mantener**.
+que **no hay ningún servidor que mantener**. El catálogo se publica como
+[JSON abierto](https://github.com/elopositor/EasyCompra-datos), con contrato de tipos estable
+y utilizable por cualquiera.
 
-`Kotlin` `Compose` `Python` `FastAPI` `Actions`
+`Kotlin` `Compose` `Python` `FastAPI` `Actions` `Datos abiertos`
 
   </td>
     <td width="50%" valign="top">
@@ -47,12 +49,13 @@ sale un ranking. Incluye el diseño de producto completo y un prototipo funciona
   </td>
     <td width="50%" valign="top">
 
-**📊 [EasyCompra · datos](https://github.com/elopositor/EasyCompra-datos)**
+**⏱️ [Control horario automático](https://github.com/elopositor/control-horario-automatico)**
 
-El catálogo de los cuatro supermercados en JSON abierto, regenerado a diario y con contrato
-de tipos estable. Sirve a la app y lo puede usar cualquiera.
+Lee los fichajes del portal de RRHH y los vuelca en el Excel donde llevo las horas: pausas,
+vacaciones, festivos y el cambio de jornada de verano. Avisa cada mañana de **a qué hora puedo
+salir**. Nada que teclear.
 
-`Datos abiertos` `JSON` `Cron`
+`PowerShell` `Excel COM` `VBA` `Task Scheduler`
 
   </td>
   </tr>
