@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Alejandro 👋</h1>
 
 <p align="center">
-  Ingeniero químico que acabó programando.<br>
+  Ingeniero químico aficionado a la automatización.<br>
   Construyo herramientas para problemas concretos: alguien las usa a diario o no las hago.
 </p>
 
